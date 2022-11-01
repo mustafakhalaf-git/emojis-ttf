@@ -3746,12 +3746,12 @@
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
     <fontRevision value="2.019"/>
-    <checkSumAdjustment value="0x5d8e1e91"/>
+    <checkSumAdjustment value="0x5abf266b"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00001011"/>
     <unitsPerEm value="2048"/>
     <created value="Wed May 22 20:00:43 2013"/>
-    <modified value="Wed Oct 19 15:54:54 2022"/>
+    <modified value="Sat Jul 23 00:00:00 2022"/>
     <xMin value="0"/>
     <yMin value="-500"/>
     <xMax value="2550"/>
