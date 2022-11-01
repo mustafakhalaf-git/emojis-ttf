@@ -2,10 +2,12 @@
 
 basically my custom emojis
 
-# How to export from ttf
+# Deps
 
 get python 
 pip install fonttools
+
+# How to export from ttf
 
 ttx -z extfile NotoColorEmoji.ttf
 
