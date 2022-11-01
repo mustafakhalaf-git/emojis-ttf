@@ -4,7 +4,8 @@ basically my custom emojis
 
 # Deps
 
-get python 
+get python
+
 pip install fonttools
 
 # How to export from ttf
