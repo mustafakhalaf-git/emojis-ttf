@@ -6,7 +6,7 @@ basically my custom emojis
 
 get python
 
-pip install fonttools
+pip install fonttools (as root/sudo)
 
 # How to export from ttf
 
