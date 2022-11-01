@@ -15,3 +15,7 @@ ttx -z extfile NotoColorEmoji.ttf
 # How to pack the ttf
 
 ttx NotoColorEmoji.ttx
+
+# Info
+
+Path to ttf on Android: /usr/share/fonts/twemoji/twemoji.ttf
