@@ -18,4 +18,4 @@ ttx NotoColorEmoji.ttx
 
 # Info
 
-Path to ttf on Android: /usr/share/fonts/twemoji/twemoji.ttf
+Path to ttf on Linux: /usr/share/fonts/twemoji/twemoji.ttf
